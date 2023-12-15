@@ -72,7 +72,7 @@ function Form() {
             className="block text-gray-700 font-bold uppercase"
             htmlFor="discharge"
           >
-            Discharge
+            Symptoms
           </label>
           <textarea
             className="border-2 w-full p-2 mt-2 placeholder-gray-400 rounded-md"
